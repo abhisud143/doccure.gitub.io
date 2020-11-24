@@ -69,7 +69,7 @@ ul.nav.navbar-nav li {
 }
 .doctors_section2 {
     position: absolute;
-    margin-left: 391px;
+    margin-left: 351px;
     width: 44.5%;
     margin-top: -570px;
 }
@@ -78,7 +78,7 @@ ul.nav.navbar-nav li {
 }
 .doctors_section4 {
      position: absolute;
-    margin-left: 391px;
+    margin-left: 351px;
     width: 44.5%;
     margin-top: -567px;
 }
@@ -196,6 +196,10 @@ ul.nav.navbar-nav li {
 
 @media screen and (min-width: 320px) and (max-width: 767px)
 {
+    .container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
 .toogle_mobile{
     margin-top: 15px;
     margin-right: -222px;
@@ -204,7 +208,7 @@ ul.nav.navbar-nav li {
 	background-color: #ffffff;
 }
 .navbar-brand {
-	margin-left: -11px;
+	margin-left: 24px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border:none;
@@ -231,7 +235,7 @@ ul.nav.navbar-nav li {
 	margin-left: 28px;
 }
 .detect_icon {
-    margin-left: 138px;
+    margin-left: 184px;
 }
 #loction_width{
     margin-left: 62px;
@@ -244,22 +248,22 @@ ul.nav.navbar-nav li {
     font-size: 0px;
 }
 .help-section1 {
-    width: 104%;
+    width: 100%;
 }
 .help-section2 {
-    width: 104%;
+    width: 100%;
     margin-top:40px;
     margin-bottom:40px;
 }
 .help-section3{
-    width: 104%;
+    width: 100%;
 }
 .appointment_icon {
-    padding-left: 4px;
+    padding-left: 25px;
 }
 .appointment_text {
     float: none;
-    margin-left: 113px;
+    margin-left: 153px;
 }
 .doctors_section1 {
     margin-top: 38px;
@@ -293,8 +297,9 @@ ul.nav.navbar-nav li {
      background-color: #ffffff; 
 }
 .specialist-column {
-    width: 100%;
+    width: 50%;
     margin-top: 35px;
+    float: left;
 }
 .specialist-column7 {
     width: 100%;
@@ -302,12 +307,12 @@ ul.nav.navbar-nav li {
 }
 .clinic_image{
 	margin-left: 49px;
-	width: 60%;
+	width: 69%;
 	margin-top: 35px;
 }
 .arrow {
-    padding-left: 110px;
-    padding-top: 35px;
+    padding-left: 195px;
+    padding-top: 67px;
 }
 .blog_text{
 	margin-bottom: 40px;
@@ -316,10 +321,10 @@ ul.nav.navbar-nav li {
 	margin-top: 40px;
 }
 .test-image {
-    margin-left: -25px;
+    margin-left: 11px;
 }
 .footer-section1 {
-    margin-left: 33px;
+    margin-left: 59px;
     margin-bottom: 25px;
 }
 .footer-logo1 {
@@ -347,8 +352,8 @@ margin-top: 45px;
     width: 33%;
 }
 .footer-company3 {
-    width: 67%;
-    padding-left: 39px;
+    width: 63%;
+    padding-left: 82px;
 }
 .footer-company5 {
     float: left;
