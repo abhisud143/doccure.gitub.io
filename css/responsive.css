@@ -25,16 +25,24 @@ ul.nav.navbar-nav li {
 }
 .phone1 {
     margin-top: -60px;
-    margin-left: 558px;
+    margin-left: 533px;
 }
 .phone{
     width: 30%;
+    margin-left: 16px;
 }
 .form-inline {
     margin-left: 65px;
 }
 .detect_icon {
     margin-left: 102px;
+}
+#skill_width{
+    width: 406px;
+    margin-left: 10px;
+}
+.search_icon {
+    margin-left: 15px;
 }
 .help-section1 {
     width: 80%;
@@ -63,7 +71,7 @@ ul.nav.navbar-nav li {
     position: absolute;
     margin-left: 391px;
     width: 44.5%;
-    margin-top: -612px;
+    margin-top: -570px;
 }
 .doctors_section3 {
     width: 46.5%;
@@ -72,10 +80,10 @@ ul.nav.navbar-nav li {
      position: absolute;
     margin-left: 391px;
     width: 44.5%;
-    margin-top: -606px;
+    margin-top: -567px;
 }
 .book_btn {
-    margin-left: 82px;
+    margin-left: 56px;
 }
 .specialist_heading {
     background-color: #ffffff;
@@ -96,7 +104,7 @@ ul.nav.navbar-nav li {
     margin-bottom: 25px;
 }
 .arrow {
-    padding-left: 185px;
+    padding-left: 162px;
 }
 .blognews-head{
     width: 46%;
@@ -108,7 +116,7 @@ ul.nav.navbar-nav li {
     margin-top: -70px;
 } 
 .test-head {
-    width: 47%;
+    width: 46%;
     float: left;
     margin-left: 20px;
     margin-bottom: 20px;
@@ -189,13 +197,13 @@ ul.nav.navbar-nav li {
 {
 .toogle_mobile{
     margin-top: 15px;
-    margin-right: -270px;
+    margin-right: -222px;
 }
 .default_mobile{
 	background-color: #ffffff;
 }
 .navbar-brand {
-	margin-left: 36px;
+	margin-left: -11px;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border:none;
@@ -216,6 +224,7 @@ ul.nav.navbar-nav li {
 }
 .inline_mobile{
 	margin-left: 28px;
+    max-width: 100%;
 }
 .inline_mobile2{
 	margin-left: 28px;
@@ -224,15 +233,32 @@ ul.nav.navbar-nav li {
     margin-left: 138px;
 }
 #loction_width{
-    margin-left: 78px;
+    margin-left: 62px;
     width: 50%;
 }
 #skill_width{
 	width: 93%;
 }
+.detect_text{
+    font-size: 0px;
+}
+.help-section1 {
+    width: 104%;
+}
 .help-section2 {
+    width: 104%;
     margin-top:40px;
     margin-bottom:40px;
+}
+.help-section3{
+    width: 104%;
+}
+.appointment_icon {
+    padding-left: 4px;
+}
+.appointment_text {
+    float: none;
+    margin-left: 113px;
 }
 .doctors_section1 {
     margin-top: 38px;
@@ -259,7 +285,8 @@ ul.nav.navbar-nav li {
     margin-right:0;
 }
 .book_btn {
-    margin-left: 93px;
+    margin-left: 49px;
+    margin-top: 10px;
 }
 .specialist_heading {
      background-color: #ffffff; 
@@ -273,12 +300,13 @@ ul.nav.navbar-nav li {
     margin-top: 35px;
 }
 .clinic_image{
-	margin-left: 75px;
+	margin-left: 49px;
 	width: 60%;
 	margin-top: 35px;
 }
 .arrow {
-    padding-left: 183px;
+    padding-left: 110px;
+    padding-top: 35px;
 }
 .blog_text{
 	margin-bottom: 40px;
@@ -286,19 +314,22 @@ ul.nav.navbar-nav li {
 .test-head{
 	margin-top: 40px;
 }
+.test-image {
+    margin-left: -25px;
+}
 .footer-section1 {
-    margin-left: 88px;
+    margin-left: 33px;
     margin-bottom: 25px;
 }
 .footer-logo1 {
     width: 30%;
-    margin-left: 82px;
+    margin-left: 50px;
 }
 .footer-text1 {
     width: 44%;
 }
 .footer-logo2 {
-margin-left: 68px;
+margin-left: 42px;
 margin-top: 45px;
 }
 .footer-text2 {
@@ -316,10 +347,11 @@ margin-top: 45px;
 }
 .footer-company3 {
     width: 67%;
-    padding-left: 116px;
+    padding-left: 39px;
 }
 .footer-company5 {
     float: left;
+    margin-right: 176px;
 }
 
 
