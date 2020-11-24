@@ -123,6 +123,7 @@ ul.nav.navbar-nav li {
 }
 .footer-section1 {
     width: 25%;
+    margin-left: 22px;
 }
 .footer-logo1 {
     float: right;
@@ -130,7 +131,7 @@ ul.nav.navbar-nav li {
     width: 30%;
     padding-top: 0;
     margin-top: -57px;
-    margin-right:  88px;
+    margin-right:  130px;
 }
 .footer-text1 {
     float: right;
@@ -138,7 +139,7 @@ ul.nav.navbar-nav li {
     color: #ffffff;
     position: relative;
     margin-top: -70px;
-    margin-right: 34px;
+    margin-right: 79px;
     font-size: 10px;
 }
 .footer-head{

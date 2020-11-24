@@ -90,7 +90,7 @@ ul.nav.navbar-nav li {
 }
 .top-searchbar-section{
 	background-image: url(../images/doctor.jpg);
-	background-size: 100% 100%;
+	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
 	color: #fff;
