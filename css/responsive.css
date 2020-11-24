@@ -1,0 +1,329 @@
+@media screen and (min-width: 768px) and (max-width: 992px)
+{
+.brand{
+    width: 143px;
+}
+.menu-head{
+    width: 94%;
+    font-size: 11px;
+}
+.navbar-nav {
+    float: right;
+    margin: -2.5px -38px;
+}
+.mynav {
+    float: left;
+    margin-left: -205px;
+    width: 100%;
+}
+ul.nav.navbar-nav li {
+    float: left;
+    display: inline-block;
+}
+.nav>li>a {
+    padding: 6px 20px;
+}
+.phone1 {
+    margin-top: -60px;
+    margin-left: 558px;
+}
+.phone{
+    width: 30%;
+}
+.form-inline {
+    margin-left: 65px;
+}
+.detect_icon {
+    margin-left: 102px;
+}
+.help-section1 {
+    width: 80%;
+    margin-left:80px;
+}
+.appointment_icon {
+    padding-left: 120px;
+}
+.appointment_text {
+    margin-left: 63px;
+}
+.help-section2 {
+    width: 80%;
+    margin-left:80px;
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.help-section3 {
+    width: 80%;
+    margin-left:80px;
+}
+.doctors_section1 {
+    width: 46.5%;
+}
+.doctors_section2 {
+    position: absolute;
+    margin-left: 391px;
+    width: 44.5%;
+    margin-top: -612px;
+}
+.doctors_section3 {
+    width: 46.5%;
+}
+.doctors_section4 {
+     position: absolute;
+    margin-left: 391px;
+    width: 44.5%;
+    margin-top: -606px;
+}
+.book_btn {
+    margin-left: 82px;
+}
+.specialist_heading {
+    background-color: #ffffff;
+}
+.specialist-column {
+    width: 33%;
+    float: left;
+    margin-bottom: 10px;
+}
+.specialist-column7 {
+    width: 100%;
+}
+.clinic_image {
+    background-color: #fff;
+    width: 30.5%;
+    float: left;
+    margin-left: 13px;
+    margin-bottom: 25px;
+}
+.arrow {
+    padding-left: 185px;
+}
+.blognews-head{
+    width: 46%;
+    float: left;
+    margin-left: 14px;
+    margin-bottom: 24px;
+}
+.user-heading {
+    margin-top: -70px;
+} 
+.test-head {
+    width: 47%;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.footer-section1 {
+    width: 25%;
+}
+.footer-logo1 {
+    float: right;
+    position: relative;
+    width: 30%;
+    padding-top: 0;
+    margin-top: -57px;
+    margin-right:  88px;
+}
+.footer-text1 {
+    float: right;
+    width: 30%;
+    color: #ffffff;
+    position: relative;
+    margin-top: -70px;
+    margin-right: 34px;
+    font-size: 10px;
+}
+.footer-head{
+    font-size: 13px;
+}
+.footer-logo2 {
+    float: right;
+    width: 7%;
+    position: relative;
+    margin-right: -131px;
+    margin-top: -74px;
+}
+.footer-text2 {
+    position:relative; 
+    float: right;
+    width: 21%;
+    margin-right: -286px;
+    font-size: 11px;
+    margin-top: -71px;
+}
+.footer-company{
+    width: 19.5%;
+}
+.footer-company2{
+    float: left;
+    width: 21.5%;
+}
+.footer-company3 {
+    float: left;
+    width: 21.5%;
+}
+.footer-company4 {
+    float: left;
+    width: 20.5%;
+}
+.footer-company5 {
+    float: right;
+    width: 16.5%;
+}
+
+/*.upper-footer{
+    width
+}*/
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 767px)
+{
+.toogle_mobile{
+    margin-top: 15px;
+    margin-right: -270px;
+}
+.default_mobile{
+	background-color: #ffffff;
+}
+.navbar-brand {
+	margin-left: 36px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border:none;
+}
+.nav_anchor_call {
+    margin-right: 264px;
+    width: 45%;
+}
+.nav_anchor {
+    margin-right: 264px;
+}
+.mynav {
+    margin-left: -15px;
+    margin-top: -24px;
+}.phone1 {
+    margin-top: 8px;
+    margin-right: 120px;
+}
+.inline_mobile{
+	margin-left: 28px;
+}
+.inline_mobile2{
+	margin-left: 28px;
+}
+.detect_icon {
+    margin-left: 138px;
+}
+#loction_width{
+    margin-left: 78px;
+    width: 50%;
+}
+#skill_width{
+	width: 93%;
+}
+.help-section2 {
+    margin-top:40px;
+    margin-bottom:40px;
+}
+.doctors_section1 {
+    margin-top: 38px;
+    margin-left: 23px;
+    box-shadow:0px 1px 2px -1px;
+    margin-right:0;
+}
+.doctors_section2 {
+    margin-top: 38px;
+    margin-left: 23px;
+    box-shadow:0px 1px 2px -1px;
+    margin-right:0;
+}
+.doctors_section3 {
+    margin-top: 38px;
+    margin-left: 23px;
+    box-shadow:0px 1px 2px -1px;
+    margin-right:0;
+}
+.doctors_section4 {
+    margin-top: 38px;
+    margin-left: 23px;
+    box-shadow:0px 1px 2px -1px;
+    margin-right:0;
+}
+.book_btn {
+    margin-left: 93px;
+}
+.specialist_heading {
+     background-color: #ffffff; 
+}
+.specialist-column {
+    width: 100%;
+    margin-top: 35px;
+}
+.specialist-column7 {
+    width: 100%;
+    margin-top: 35px;
+}
+.clinic_image{
+	margin-left: 75px;
+	width: 60%;
+	margin-top: 35px;
+}
+.arrow {
+    padding-left: 183px;
+}
+.blog_text{
+	margin-bottom: 40px;
+}
+.test-head{
+	margin-top: 40px;
+}
+.footer-section1 {
+    margin-left: 88px;
+    margin-bottom: 25px;
+}
+.footer-logo1 {
+    width: 30%;
+    margin-left: 82px;
+}
+.footer-text1 {
+    width: 44%;
+}
+.footer-logo2 {
+margin-left: 68px;
+margin-top: 45px;
+}
+.footer-text2 {
+    width: 44%;
+    margin-top: 16px;
+    padding-left: 20px: 
+
+}
+.footer-company{
+    width: 40%;
+}
+.footer-company4 {
+    float: left;
+    width: 33%;
+}
+.footer-company3 {
+    width: 67%;
+    padding-left: 116px;
+}
+.footer-company5 {
+    float: left;
+}
+
+
+
+
+
+
